@@ -1,0 +1,4 @@
+link para download do git:
+www.github.com
+
+o gitbash é o terminal extendido para otimizar o uso do git.
